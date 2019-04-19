@@ -1,0 +1,67 @@
+* {margin: 0px; padding: 0px;}
+
+body {
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+p {
+    margin-left: 2rem;
+}
+
+i {
+    float: left;
+    margin-right: 1%;
+}
+
+h2 {
+    margin-left: 2rem;
+    font-family: 'Noto Sans KR', sans-serif;
+
+}
+
+
+
+.user_img {
+	  width: 4rem;
+      height: 3rem;
+}
+
+.line {
+	margin-left : 1rem;
+}
+
+
+.usertext {
+	font-size: 15px;
+	margin-left : 1.8%;
+	font-family: 'Noto Sans KR', sans-serif;
+	
+}
+
+.imgline {
+	height: 3.3rem;
+}
+
+
+.titlehr {
+    margin-bottom: 2.5rem;
+}
+
+hr {
+    
+    margin-top: 1rem; margin-bottom: 1rem;
+}
+
+img {
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+
+.bookone p{
+    position: absolute;
+    
+}
+
+
